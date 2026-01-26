@@ -8,7 +8,7 @@ export default function MobileMenu() {
   const [open, setOpen] = useState(false);
 
   return (
-    <>
+    <div className=" text-white ">
       <button onClick={() => setOpen(!open)} className="md:hidden text-2xl">
         <IoMenu className="text-3xl" />
       </button>
@@ -31,6 +31,6 @@ export default function MobileMenu() {
           </ul>
         </div>
       )}
-    </>
+    </div>
   );
 }

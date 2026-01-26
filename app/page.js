@@ -12,7 +12,7 @@ import { PiArrowCircleRightFill } from "react-icons/pi";
 export default function Home() {
   return (
     <>
-      <div className="main bg-[#221f1f] w-full Poppins">
+      <div className="main bg-[#221f1f] w-full Poppins text-white">
         <div
           className="navbar flex justify-center items-center w-full text-
         xl bg-[#292626]"

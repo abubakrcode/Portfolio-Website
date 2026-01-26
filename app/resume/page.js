@@ -7,7 +7,7 @@ import { PiArrowCircleRightFill } from "react-icons/pi";
 import MobileMenu from "../components/mobileMenu";
 export default function ResumePage() {
   return (
-    <div className="bg-[#221f1f] w-full min-h-full Poppins">
+    <div className="bg-[#221f1f] w-full min-h-full Poppins text-white">
       <div
         className="navbar flex justify-center items-center w-full text-
         xl bg-[#292626]"
