@@ -334,8 +334,7 @@ export default function Home() {
                       Instagram at{" "}
                       <span className="text-[#a6bbcc] font-bold italic">
                         abubakrr_dev
-                      </span>{" "}
-                      .
+                      </span>
                     </p>
                   </a>
                 </div>
