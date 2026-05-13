@@ -389,7 +389,7 @@ export default function Home() {
               </div>
               <div className="icon4">
                 <a
-                  href="https://www.instagram.com/abubakr_405_/"
+                  href="https://www.instagram.com/abubakr.ext/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
