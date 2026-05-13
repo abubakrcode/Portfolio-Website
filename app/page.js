@@ -323,7 +323,7 @@ export default function Home() {
                 </div>
                 <div className="icon4 border rounded-xl md:p-4 p-2">
                   <a
-                    href="https://www.instagram.com/abubakr.ext/"
+                    href="https://www.instagram.com/abubakrr_dev/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-4"
@@ -333,7 +333,7 @@ export default function Home() {
                       Click the Instagram icon to follow or message me on
                       Instagram at{" "}
                       <span className="text-[#a6bbcc] font-bold italic">
-                        abubakr.ext
+                        abubakrr_dev
                       </span>{" "}
                       .
                     </p>
@@ -389,7 +389,7 @@ export default function Home() {
               </div>
               <div className="icon4">
                 <a
-                  href="https://www.instagram.com/abubakr.ext/"
+                  href="https://www.instagram.com/abubakrr_dev/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
