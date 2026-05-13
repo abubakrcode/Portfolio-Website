@@ -103,7 +103,7 @@ export default function ResumePage() {
             </div>
             <div className="icon4">
               <a
-                href="https://www.instagram.com/abubakr.ext/"
+                href="https://www.instagram.com/abubakrr_dev/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
