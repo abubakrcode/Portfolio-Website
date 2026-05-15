@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import cv from "@/public/Resume-15-05-26.pdf";
+import cv from "@/public/Latest-CV-2026.png";
 import { IoLogoInstagram, IoLogoWhatsapp } from "react-icons/io";
 import { FaLinkedin } from "react-icons/fa";
 import { PiArrowCircleRightFill } from "react-icons/pi";
